@@ -1,8 +1,8 @@
 package com.epam.course.java.se;
 
-
-import wsclient.HelloService;
-import wsclient.User;
+//
+//import wsclient.HelloService;
+//import wsclient.User;
 
 import javax.xml.ws.Endpoint;
 
