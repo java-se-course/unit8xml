@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<notes xmlns="http://cources.epam.com/unit9/notes">
+    <note id="1">
+        <to>John Doe</to>
+        <from>Sarah Connor</from>
+        <heading>Hi!</heading>
+        <body>The winter is coming!</body>
+    </note>
+    <note id="2">
+        <to>A</to>
+        <from>B</from>
+        <heading>C</heading>
+    </note>
+</notes>
